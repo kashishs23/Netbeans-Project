@@ -1,3 +1,3 @@
 # Netbeans-Project
 
-Calculator project ,digit reverse,digit sum
+Calculator ,digit reverse,digit sum,square,max,grade project
